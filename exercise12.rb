@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/bin/env ruby
 # Programa que pide tres números y determina cuál es el mayor y el menor.
 print "Introduce el primer número: "
 num1 = gets.chomp.to_i

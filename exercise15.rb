@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/bin/env ruby
 # Programa que calcula ecuaciones de segundo grado a partir de los coeficientes a, b y c mostrando las dos soluciones.
 print "Introduce el coeficiente a: "
 a = gets.chomp.to_i

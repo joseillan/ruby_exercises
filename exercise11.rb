@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/bin/env ruby
 # Programa que calcula el tiempo que se tarda en llegar a un sitio dada la velocidad y la distancia.
 print "Introduce el origen: "
 origen = gets.chomp

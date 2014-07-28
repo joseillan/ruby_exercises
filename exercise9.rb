@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/bin/env ruby
 # Programa que calcula potencias para un número dado
 print "Escribe un número: "
 num = gets.chomp.to_i

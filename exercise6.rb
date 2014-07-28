@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/bin/env ruby
 # Conversor de € a pesetas (1€ = 166.386 ptas)
 print "Introduce una cantidad en euros: "
 euros = gets.chomp

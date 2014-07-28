@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/bin/env ruby
 # Programa que calcula la superficie de un triángulo a partir de la base y de la altura.
 puts "Vamos a calcular la superficie de un triángulo..."
 print "¿Cuánto mide la base en cm? "

@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/bin/env ruby
 # Programa que calcula la longitud de una circunferencia a partir del radio
 print "Escribe el radio de la circunferencia (en cm): "
 radio = gets.chomp.to_i

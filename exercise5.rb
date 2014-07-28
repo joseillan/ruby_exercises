@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/bin/env ruby
 # Programa que pide un número de 2 cifras y, a continuación, lo imprime al revés
 print "Escribe un número de dos cifras: "
 number = gets.chomp

@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/bin/env ruby
 # Programa que pregunta nombre, primer apellido y segundo apellido. A continuación escribe el nombre completo de dos maneras:
 #       - Nombre + Apellidos.
 #       - Apellidos + Nombre.

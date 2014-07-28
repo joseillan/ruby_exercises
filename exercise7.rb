@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/bin/env ruby
 # Programa que calcula la superficie de un cuadrado a partir de la longitud del lado.
 
 puts "Vamos a calcular la superficie de un cuadrado..."

@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/bin/env ruby
 # Programa que preguntando el tamaño del depósito, el % de combustible restante y el consume muestre si puedes llegar a la próxima gasolinera situada a 200 Km.
 print "Introduce el tamaño del depósito (litros): "
 deposito = gets.chomp.to_i

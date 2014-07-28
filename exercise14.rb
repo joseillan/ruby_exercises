@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/bin/env ruby
 # Programa que transforma una nota numérica entre 0 y 10 con dos decimales en la nota literal.
 print "Introduce la nota numérica: "
 nota = gets.chomp.to_f.round(2)
